@@ -1,3 +1,8 @@
+# Repository ignore
+
+data/*.csv
+!data/raw/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
